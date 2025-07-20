@@ -5,7 +5,7 @@
 #include <LiquidCrystal_I2C.h>
 #include <TinyGPSPlus.h>
 #include "bitmaps.h"
-#include "pussy.h"
+#include "cat.h"
 #include "SDUtil.h"
 
 // OLED
